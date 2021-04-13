@@ -1,7 +1,7 @@
 ### Hi I'm Somali Pattjoshi 👋
 
 <!--
-**Somali19/Somali19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Somali19/Somali19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I'm a Front-End Developer, UI/UX Designer and an open source contributor. I'm currently pursuing B.Tech from GIET University, Gunupur.
 
