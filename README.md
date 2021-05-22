@@ -17,7 +17,7 @@ I'm a Front-End Developer, UI/UX Designer and an open source contributor. I'm cu
 
 🔹️Database : Mysql
 
-🔹️Operating System: Windows.
+🔹️Operating System: Windows , Linux
 
 🌱 I’m currently learning more about Full Stack Development.
 
