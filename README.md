@@ -11,7 +11,7 @@ I'm a Front-End Developer, UI/UX Designer and an open source contributor. I'm cu
 
 🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs
 
-🔹️Web Development: Html 5 , CSS 3 , Javascript
+🔹️Web Development: Html 5 , CSS 3 , Bootstrap , Javascript , React Js
 
 🔹️Framework & Tools : Git , VS Code
 
