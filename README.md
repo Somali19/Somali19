@@ -27,7 +27,7 @@ I'm a Front-End Developer, UI/UX Designer and an open source contributor. I'm cu
 
 😄 Pronouns: She/Her
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Somali19)
+
 
 
 ## Find me around the web 🌎:
