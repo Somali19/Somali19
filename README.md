@@ -7,23 +7,19 @@ I'm a Front-End Developer, UI/UX Designer and an open source contributor. I'm cu
 
  My skills include :
  
-🔹️Programming Language: C, C++, JAVA, Python
+🔹️Programming Language: C, C++, JAVA
 
-🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs
-
-🔹️Web Development: Html 5 , CSS 3 , Bootstrap , Tailwind CSS Javascript , React Js
+🔹️Web Development: Html 5 , CSS 3 , Bootstrap 
 
 🔹️Framework & Tools : Git , VS Code
 
 🔹️Database : Mysql
 
-🔹️Operating System: Windows , Linux
+🔹️Operating System: Windows 
 
-🌱 I’m currently learning more about Full Stack Development.
+🌱 I’m currently learning more about Web Development.
 
-🤔 I’m looking for help with Open Source Development.
-
-💬 Ask me about Front-End Development, UI/UX Design.
+💬 Ask me about Front-End Development, UI/UX Design, IOT.
 
 😄 Pronouns: She/Her
 
